@@ -20,12 +20,11 @@ Wilczy Symulator Dźwięków jest prostą aplikacją napisaną w języku C#, kt�
 ## Instalacja
 
 1. Sklonuj lub pobierz repozytorium.
-2.
 ```bash
   git clone https://github.com/chomiczo/HowlingWolf
 ```
-3. Skompiluj projekt za pomocą środowiska programistycznego Visual Studio lub innego kompilatora obsługującego język C#.
-4. Uruchom aplikację na swoim komputerze.
+2. Skompiluj projekt za pomocą środowiska programistycznego Visual Studio lub innego kompilatora obsługującego język C#.
+3. Uruchom aplikację na swoim komputerze.
 
 ## Użycie
 
