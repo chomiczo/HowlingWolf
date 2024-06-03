@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GKiWLabs": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)/"
+    }
+  }
+}
