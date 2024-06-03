@@ -19,16 +19,16 @@ Wilczy Symulator Dźwięków jest prostą aplikacją napisaną w języku C#, kt�
 
 ## Instalacja
 
-    1. Sklonuj lub pobierz repozytorium.
-    2. Skompiluj projekt za pomocą środowiska programistycznego Visual Studio lub innego kompilatora obsługującego język C#.
-    3. Uruchom aplikację na swoim komputerze.
+1. Sklonuj lub pobierz repozytorium.
+2. Skompiluj projekt za pomocą środowiska programistycznego Visual Studio lub innego kompilatora obsługującego język C#.
+3. Uruchom aplikację na swoim komputerze.
 
 ## Użycie
 
-    1. Uruchom aplikację.
-    2. Naciśnij klawisz **Spacja**, aby rozpocząć odtwarzanie dźwięku wyjących wilków.
-    3. Ponownie naciśnij klawisz **Spacja**, aby zatrzymać odtwarzanie dźwięku.
-    4. Ciesz się realistycznym dźwiękiem wilków w swoim domu!
+1. Uruchom aplikację.
+2. Naciśnij klawisz **Spacja**, aby rozpocząć odtwarzanie dźwięku wyjących wilków.
+3. Ponownie naciśnij klawisz **Spacja**, aby zatrzymać odtwarzanie dźwięku.
+4. Ciesz się realistycznym dźwiękiem wilków w swoim domu!
 
 ## Autor
 
